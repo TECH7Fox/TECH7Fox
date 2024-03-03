@@ -128,13 +128,13 @@
                             19
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 2.631578947368421px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             20
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 2.631578947368421px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                             21
                         </div>
                         <div class="entry">
@@ -1417,7 +1417,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.29m out of 131m users</span>
+                                    <span class="gh">ranked 1.29m out of 129m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">34</div>
                                     </div>
@@ -1510,7 +1510,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 432k out of 78.8m repositories</span>
+                                    <span class="gh">ranked 432k out of 72.3m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">28</div>
                                     </div>
@@ -1551,7 +1551,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 248k out of 78.8m repositories</span>
+                                    <span class="gh">ranked 248k out of 72.3m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">151</div>
                                     </div>
@@ -1606,7 +1606,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 490k out of 131m users</span>
+                                    <span class="gh">ranked 490k out of 129m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">27</div>
                                     </div>
